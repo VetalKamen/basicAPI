@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/http-foundation": "^5.2",
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
